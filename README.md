@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @nitishgupta19
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me : nitish.guptadeveloper@gmail.com
